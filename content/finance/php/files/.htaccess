@@ -1,0 +1,5 @@
+RewriteEngine On
+<FilesMatch "\.(xlsx)$">
+   ForceType application/octet-stream
+   Header set Content-Disposition attachment
+</FilesMatch>

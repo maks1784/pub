@@ -1,0 +1,42 @@
+.navbar {
+    background-image: url("../img/header.png");
+}
+.pic_front_ord,
+.pic_back_ord{
+  height: 8em;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 0.375rem;
+  border: 1px solid #ced4da;
+}
+.pic_front_ord_ext,
+.pic_back_ord_ext{
+  height: 8em;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 0.375rem;
+  border: 1px solid #ced4da;
+}
+.new_pic_front_ord, 
+.new_pic_back_ord {
+    height: 8em;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 0.375rem;
+    border: 1px solid #ced4da;
+}
+.new_pdf_ord{
+    max-height: 8em;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 0.375rem;
+    border: 1px solid #ced4da;
+    font-size: 40px;
+    padding: 33px;
+    text-align:center;
+    
+}
